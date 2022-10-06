@@ -33,4 +33,9 @@
 
     * http://ruseller.com/lessons.php?rub=28&id=2035
     * http://cluster.krc.karelia.ru/doc/rukovodstvo_GIT.pdf
-    
+
+## Еще полезная инфомарция:
+В случае пожара: 
+1. git commit
+2. git push
+3. git out!
