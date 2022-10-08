@@ -35,5 +35,6 @@
     * http://cluster.krc.karelia.ru/doc/rukovodstvo_GIT.pdf
     
 
-Дорогой друг, прими изменения
-Пул рекветс
+Дорогой друг, выполняю работы по семинару 3 GB
+pull request
+спасибо!
